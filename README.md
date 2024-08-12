@@ -11,7 +11,6 @@ This Python script is a proof-of-concept (PoC) for executing SSRF (Server-Side R
 ## Requirements
 
 - Python 3.x
-- Internet access to reach the SAP BusinessObjects Launchpad instance.
 
 ## Installation
 
